@@ -1,0 +1,61 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+---
+
+<div class="header">
+	<div class="name-logo">
+		<h1>Folyo</h1>
+	</div>
+	
+	<div class="explainer">
+		<h2>Hand-picked design and development portfolios, served daily.</h2>
+	</div>
+	
+	<div class="new-submission">
+		<a class="button" href="#">Submit</a>
+	</div>
+</div>
+
+
+<div class="homepage-grid">
+  {% for post in site.posts %}
+    <a href="{{ post.link }}">
+			<div class="portfolio">
+				<!--{% if forloop.first == true %}
+				  <span class="todays-post">Today's featured portfolio</span>
+				{% endif %}-->
+				<img class="screenshot" src="{{ post.screenshot }}">
+				
+				<div class="portfolio-info">
+					<div class="photo">
+						<img class="photo" src="{{ post.photo }}">
+					</div>
+					
+					<div class="bio">
+			    	<h3>{{ post.title }}</h3>
+						<h4>{{ post.tags | sort | join: ", " }}</h4>
+					</div>				
+				</div>
+					
+    	</div>
+		</a>
+  {% endfor %}
+	
+	<div class="opt-in">
+		<p>Get the five featured Folyo portfolios in your inbox every week! <a href="#" class="button">Subscribe</a></p>
+	</div>
+</div>
+
+<footer>
+	<p>
+		<a href="#">Follow on Twitter</a>
+		<a href="#">Blog</a>
+		<a href="#">Sponsor</a>
+		<a href="#">Jobs</a>
+		<a href="#">Guidelines</a>
+		<a href="#">Report Bugs</a>
+	</p>
+</footer>

@@ -1,0 +1,86 @@
+.homepage-grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-column-gap: 1.25rem;
+	padding: 1.5em 2em 0em;
+	border-bottom: 2px solid #DDE5E9;
+	vertical-align: middle;
+}
+
+
+.homepage-grid .portfolio {
+}
+
+.homepage-grid a {
+	text-decoration: none;
+	color: #000;
+	margin: 1em 0;
+	
+}
+
+.homepage-grid div.portfolio img.screenshot {
+	max-width: 100%;
+	border-radius: 5px;
+}
+
+.homepage-grid a h3 {
+	font-size: 24px;
+	margin: .8em 0 0;
+}
+
+.homepage-grid h4 {
+	margin: 0;
+	font-size: 13px;
+	color: #9BA3A7;
+}
+
+.portfolio-info {
+	display: grid;
+	grid-template-columns: 90px 1fr;
+	grid-column-gap: 1.25rem;
+	padding: 1em 0 0;
+}
+
+
+.portfolio-info img.photo {
+	border-radius: 90px;
+	max-width: 100%;
+}
+
+.todays-post {
+	position: absolute;
+	background-color: #44c0ff;
+	color: #FFF;
+	padding: .125em .5em;
+	font-size: 14px;
+}
+
+.homepage-grid .opt-in {
+	grid-row: 3;
+	grid-column: 2 span;
+	border: 2px solid #DDE5E9;
+	border-radius: 10px;
+	padding: 1em 2em;
+	margin: 2em 0;
+	text-align:center;
+	font-size: 120%;
+}
+.homepage-grid .opt-in a.button {
+	padding: .25em .5em .4em;
+	color: #FFF;
+	background-color: #4888a8;
+	border-radius: 5px;
+	margin: 0 .5em;
+}
+
+footer {
+	margin: 0 0;
+	padding: 2em 0 5em;
+	text-align: center;
+}
+
+footer a {
+	margin: 0 .5em;
+	color: #9BA3A7;
+	text-decoration: none;
+}

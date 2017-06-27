@@ -1,0 +1,35 @@
+.header {
+	display: grid;
+	grid-template-columns: 1.75fr 4.5fr 1.75fr;
+	padding: 1.5em 2em 1.75em;
+	border-bottom: 2px solid #DDE5E9;
+	vertical-align: middle;
+}
+
+.header h1, .header h2 {
+	margin: 0;
+}
+
+.header h1 {
+	font-size: 24px;
+	line-height: 1;
+}
+
+.header h2 {
+	font-size: 18px;
+	text-align:center;
+	color: #657074;
+}
+
+.header .new-submission {
+	text-align:right;
+}
+
+.header .new-submission a.button {
+	color: #5C8FA8;
+	padding: .3em 1em .4em;
+	border: 2px solid #5C8FA8;
+	border-radius: 2em;
+	text-decoration: none;
+	line-height: 1.2;
+}

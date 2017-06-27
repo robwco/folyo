@@ -1,6 +1,6 @@
 # Folyo
 
-Built with Jekyll, Folyo is a directory of hand-picked portfolio and personal websites. We focus mostly on design and development sites. 
+Built with Jekyll, [Folyo](http://folyo.me) is a directory of hand-picked portfolio and personal websites. We focus mostly on design and development sites, so if you'd like to get featured let us know.  
 
 I use [Typeform](http://typeform.com) for most of the forms on the site. The font face is Europa hosted by [Typekit](http://typekit.com).
 
