@@ -1,9 +1,16 @@
 .header {
 	display: grid;
 	grid-template-columns: 1.75fr 4.5fr 1.75fr;
-	padding: 1.5em 2em 1.75em;
+	padding: 1.5em 2em 1.5em;
 	border-bottom: 2px solid #DDE5E9;
 	vertical-align: middle;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.header .name-logo h1 a {
+	text-decoration: none;
+	color: #222;	
 }
 
 .header h1, .header h2 {

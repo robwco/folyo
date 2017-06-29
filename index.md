@@ -4,10 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-
 <div class="header">
 	<div class="name-logo">
-		<h1>Folyo</h1>
+		<h1>
+			<a href="/">Folyo</a>
+		</h1>
 	</div>
 	
 	<div class="explainer">
@@ -21,6 +22,16 @@ layout: default
 
 
 <div class="homepage-grid">
+	
+	<ul class="tags">
+	{% for tag in site.tags %}
+	  {% assign t = tag | first %}
+	  {% assign posts = tag | last %}
+	  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+	{% endfor %}
+	</ul>
+	
+	
   {% for post in site.posts %}
     <a href="{{ post.link }}">
 			<div class="portfolio">
@@ -38,8 +49,7 @@ layout: default
 			    	<h3>{{ post.title }}</h3>
 						<h4>{{ post.tags | sort | join: ", " }}</h4>
 					</div>				
-				</div>
-					
+				</div>					
     	</div>
 		</a>
   {% endfor %}
@@ -47,12 +57,17 @@ layout: default
 	<div class="opt-in">
 		<p>Get the five featured Folyo portfolios in your inbox every week! <a href="#" class="button">Subscribe</a></p>
 	</div>
+	
+	<div>
+		<h3>More portfolios coming soon</h3>
+		<p>Get featured. Submit your portfolio here.</p>
+	</div>
 </div>
 
 <footer>
 	<p>
-		<a href="#">Follow on Twitter</a>
-		<a href="#">Blog</a>
+		<a href="http://twitter.com/yofolyo">Follow on Twitter</a>
+		<a href="http://">Blog</a>
 		<a href="#">Sponsor</a>
 		<a href="#">Jobs</a>
 		<a href="#">Guidelines</a>
