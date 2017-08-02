@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Folyo
+title: Folyo - One great freelance project posted every day.
 email: help@folyo.me
 description: >
-  Hand-picked design and development portfolios, served daily.
+  I search the web and hand-pick the best freelance design and development project, served daily.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yofolyo
@@ -25,7 +25,7 @@ parse_block_html: true
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
   - jemoji
 
@@ -40,5 +40,3 @@ gems:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-minimal

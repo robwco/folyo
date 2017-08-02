@@ -4,73 +4,19 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-<div class="header">
-	<div class="name-logo">
-		<h1>
-			<a href="/">Folyo</a>
-		</h1>
-	</div>
-	
-	<div class="explainer">
-		<h2>Hand-picked design and development portfolios, served daily.</h2>
-	</div>
-	
-	<div class="new-submission">
-		<a class="button" href="#">Submit</a>
-	</div>
-</div>
 
+{% include header.html %}
 
-<div class="homepage-grid">
-	
-	<ul class="tags">
-	{% for tag in site.tags %}
-	  {% assign t = tag | first %}
-	  {% assign posts = tag | last %}
-	  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-	{% endfor %}
-	</ul>
-	
-	
-  {% for post in site.posts %}
-    <a href="{{ post.link }}">
-			<div class="portfolio">
-				<!--{% if forloop.first == true %}
-				  <span class="todays-post">Today's featured portfolio</span>
-				{% endif %}-->
-				<img class="screenshot" src="{{ post.screenshot }}">
+<p style="margin: 0 auto 0; max-width: 800px; color: #717171;">Now hiring!</p>
+<div class="homepage-project-list">
+	{% for project in site.data.projects %}
+    <a href="{{ project.url }}">
+			<div class="project-info">
+				<div><img src="{{ project.picture }}"></div>
 				
-				<div class="portfolio-info">
-					<div class="photo">
-						<img class="photo" src="{{ post.photo }}">
-					</div>
-					
-					<div class="bio">
-			    	<h3>{{ post.title }}</h3>
-						<h4>{{ post.tags | sort | join: ", " }}</h4>
-					</div>				
-				</div>					
-    	</div>
-		</a>
-  {% endfor %}
-	
-	<div class="opt-in">
-		<p>Get the five featured Folyo portfolios in your inbox every week! <a href="#" class="button">Subscribe</a></p>
-	</div>
-	
-	<div>
-		<h3>More portfolios coming soon</h3>
-		<p>Get featured. Submit your portfolio here.</p>
-	</div>
+				<div><span class="date">{{ project.date | date: '%B %d, %Y' }}</span><br>
+					{{ project.title }}</div>
+			</div>
+    </a>
+	{% endfor %}
 </div>
-
-<footer>
-	<p>
-		<a href="http://twitter.com/yofolyo">Follow on Twitter</a>
-		<a href="http://">Blog</a>
-		<a href="#">Sponsor</a>
-		<a href="#">Jobs</a>
-		<a href="#">Guidelines</a>
-		<a href="#">Report Bugs</a>
-	</p>
-</footer>

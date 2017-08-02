@@ -1,42 +1,32 @@
 .header {
 	display: grid;
-	grid-template-columns: 1.75fr 4.5fr 1.75fr;
 	padding: 1.5em 2em 1.5em;
-	border-bottom: 2px solid #DDE5E9;
 	vertical-align: middle;
 	max-width: 1200px;
 	margin: 0 auto;
+	text-align: center;
+}
+
+.header .name-logo h1 a img {
+	max-width: 225px;
 }
 
 .header .name-logo h1 a {
+	margin: 0 auto;
 	text-decoration: none;
 	color: #222;	
 }
 
-.header h1, .header h2 {
-	margin: 0;
-}
-
-.header h1 {
-	font-size: 24px;
-	line-height: 1;
+.header h2, .header h3, .header a {
+	font-weight: 400;
+	color: #717171;
+	margin: .5em 0;
 }
 
 .header h2 {
-	font-size: 18px;
-	text-align:center;
-	color: #657074;
+	font-size: 150%;
 }
 
-.header .new-submission {
-	text-align:right;
-}
-
-.header .new-submission a.button {
-	color: #5C8FA8;
-	padding: .3em 1em .4em;
-	border: 2px solid #5C8FA8;
-	border-radius: 2em;
-	text-decoration: none;
-	line-height: 1.2;
+.header h3 {
+	font-size: 110%;
 }
