@@ -20,3 +20,5 @@ layout: default
     </a>
 	{% endfor %}
 </div>
+
+{% include footer.html %}
