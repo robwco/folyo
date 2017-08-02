@@ -7,7 +7,7 @@ layout: default
 
 {% include header.html %}
 
-<p style="margin: 0 auto 0; max-width: 800px; color: #717171;">Now hiring!</p>
+<p style="margin: 0 auto 0; max-width: 800px; color: #717171;">:raising_hand: Now hiring!</p>
 <div class="homepage-project-list">
 	{% for project in site.data.projects %}
     <a href="{{ project.url }}">
