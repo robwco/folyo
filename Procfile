@@ -1,1 +1,1 @@
-web: bundle exec puma start -p ${PORT:-3000}
+web: bundle exec puma -t 8:32 -w 3 -p $PORT
