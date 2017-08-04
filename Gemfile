@@ -16,8 +16,6 @@ gem 'jemoji'
 gem 'kramdown'
 gem 'rack-jekyll'
 gem 'rake'
-gem 'puma'
-gem 'heroku'
 gem 'thin'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
