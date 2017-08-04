@@ -11,7 +11,7 @@ use Rack::Rewrite do
 end
 
 use Rack::TryStatic, 
-    :root => "app/_site",  # static files root dir
+    :root => "_site",  # static files root dir
     :urls => %w[/],     # match all requests 
     :try => ['.html', 'index.html', '/index.html'] # try these postfixes sequentially
-run Rack::NotFound.new('app/_site/404.html')
+run Rack::NotFound.new('_site/404.html')
