@@ -19,9 +19,6 @@ gem 'rake'
 gem 'puma'
 gem 'heroku'
 gem 'thin'
-gem 'rack-rewrite'
-gem 'rack-contrib'
-gem 'shotgun', :group => :development
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
