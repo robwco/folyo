@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title></title>
+		<description>I search the web and hand-pick the best freelance design and development project, served daily.
+</description>	
+		<lastBuildDate>Fri, 04 Aug 2017 13:54:02 -0700</lastBuildDate>	
+		<link>http://www.folyo.me</link>
+		
+		
+		
+			<item>
+				<title>Swift / iOS development project on music app</title>      
+				<pubDate>Wed, 02 Aug 2017 00:00:00 -0700</pubDate>
+				<link>https://news.ycombinator.com/item?id=14910408</link>
+				<guid isPermaLink="true">https://news.ycombinator.com/item?id=14910408</guid>
+				<description>Swift / iOS development project on music app</description>
+				<author>Robert Williams</author>
+				<guid>https://news.ycombinator.com/item?id=14910408</link>
+			</item>
+		
+			<item>
+				<title>Logo design and rebrand project for renewable energy organization</title>      
+				<pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
+				<link>https://www.goodwork.ca/jobs/toronto-environmental-education-charity-communications-and-marketing-consulting-project-42024</link>
+				<guid isPermaLink="true">https://www.goodwork.ca/jobs/toronto-environmental-education-charity-communications-and-marketing-consulting-project-42024</guid>
+				<description>Logo design and rebrand project for renewable energy organization</description>
+				<author>Robert Williams</author>
+				<guid>https://www.goodwork.ca/jobs/toronto-environmental-education-charity-communications-and-marketing-consulting-project-42024</link>
+			</item>
+		
+			<item>
+				<title>Node.JS development project on live streaming app for groups</title>      
+				<pubDate>Mon, 31 Jul 2017 00:00:00 -0700</pubDate>
+				<link>https://angel.co/officialglimpse/jobs/263300-full-stack-developer</link>
+				<guid isPermaLink="true">https://angel.co/officialglimpse/jobs/263300-full-stack-developer</guid>
+				<description>Node.JS development project on live streaming app for groups</description>
+				<author>Robert Williams</author>
+				<guid>https://angel.co/officialglimpse/jobs/263300-full-stack-developer</link>
+			</item>
+		
+	</channel>
+</rss>
