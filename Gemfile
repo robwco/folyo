@@ -7,3 +7,4 @@ gem 'shotgun', :group => :development
 gem 'rack-rewrite'
 gem 'thin'
 gem 'jemoji'
+gem 'jekyll-feed'
