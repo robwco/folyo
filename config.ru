@@ -2,6 +2,7 @@
 require 'bundler'
 Bundler.setup
 Bundler.require
+require 'rack/contrib/try_static' 
 require 'rack/rewrite'
 
 # Support links to old Wordpress site
