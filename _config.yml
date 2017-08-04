@@ -39,4 +39,3 @@ markdown: kramdown
 #   - vendor/ruby/
 
 gems: ['kramdown', 'jekyll-feed', 'jemoji']
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
