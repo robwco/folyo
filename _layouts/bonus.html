@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{% for bonus in site.bonus %}
+	<div class="bonus wrap">
+		<div>
+			<img src="/images/{{ bonus.pic }}">
+		</div>
+		
+		<div>
+		  <h2>{{ bonus.headline }}</h2>
+			<p>{{ bonus.teaser }}</p>
+
+	
+			<form action="https://www.getdrip.com/forms/{{ bonus.form-id }}/submissions" method="post" data-drip-embedded-form="{{ bonus.form-id }}">
+				<div class="email-optin-grid">
+				    <div>
+				        <label for="fields[first_name]">First name</label><br />
+				        <input type="text" name="fields[first_name]" value="" placeholder="Your first name"/>
+				    </div>
+				    <div>
+				        <label for="fields[email]">Email Address</label><br />
+				        <input type="email" name="fields[email]" value="" placeholder="Your email"/>
+				    </div>
+				  <div>
+				    <input type="submit" name="submit" value="Get bonus" data-drip-attribute="sign-up-button" />
+				  </div>
+				</div>
+			</form>
+		</div>
+	</div>
+{% endfor %}
+
+{{ content }}
+
+{% include footer.html %}

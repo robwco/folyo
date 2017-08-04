@@ -1,0 +1,25 @@
+- name: "Leads Service"
+  offer: "I send you hyper-relevant projects daily"
+  type: "Leads!"
+  permalink: /leads/
+  summary: "My main service. I send 200+ high-value projects each month. Limited spots available."
+  coming_soon: false
+  pic: "./images/workshop-preview-sd.png"
+
+- name: "Where to find clients"
+  offer: "Where to find high-paying clients"
+  type: "Training!"
+  permalink: /find/
+  summary: "My 100+ favorite places to find high-paying clients online + a video walkthrough on how to use them."
+  coming_soon: false
+  pic: "./images/automation-video-course.png"
+  
+
+- name: "Emails that win you clients"
+  offer: "Emails that win you clients"
+  type: "Ebook"
+  permalink: /emails/
+  summary: "A field guide with templates, best practices, and patterns for winning more work in less time over email."
+  coming_soon: false
+  pic: "./images/etw-field-guide.png"
+  

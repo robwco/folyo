@@ -1,0 +1,22 @@
+<div class="product-list leads">
+	{% for lead_application_spot in site.data.lead_application_spots %}
+		{% if lead_application_spot.full == false %}
+			<div class="product-item">
+				<a href="{{ lead_application_spot.apply_link }}">{{ lead_application_spot.name }}</a> <span>{{ lead_application_spot.description }}</span> 
+				
+				<a class="apply button small" href="{{ lead_application_spot.apply_link }}">Apply</a>
+				
+				<span style="float: right; margin-right: 1em; margin-top: 3px;">{{ lead_application_spot.spots }} spots left!</span>
+			</div>
+		{% else %}
+		<div class="product-item">
+			<a href="{{ lead_application_spot.waiting_list_link }}">{{ lead_application_spot.name }}</a> <span>{{ lead_application_spot.description }}</span>
+			
+			
+			<a class="sold-out" href="{{ lead_application_spot.waiting_link }}">Sold out</a>
+			
+			<span style="float: right; margin-right: 1em; margin-top: 3px;">Join the waiting list!</span>
+		</div>
+		{% endif %}
+	{% endfor %}
+</div>

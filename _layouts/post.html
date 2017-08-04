@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+
+{% include nav.html %}
+
+<p class="back-to-archive">
+	<a href="/writing">&larr; Back to archive</a>
+</p>
+
+<div class="headline">
+	<h1>{{ page.headline }}</h1>
+</div>
+
+<div class="wrap reading">
+  <article class="story">
+		<h1 style="margin-top: 1em;">{{ page.title }}</h1>
+    {{ content }}
+	</article>
+	<hr>
+</div>
+<div class="opt-in wrap">
+	
+	<div>
+		<h3>Join 8,000+ consultancies building their pipeline</h3>
+
+		<p>Get my step-by-step process for finding and emailing new clients. It comes with templates and scripts for building a recurring consulting pipeline.</p>
+	</div>
+	
+	<div>
+		{% include course-form.html %}
+	</div>
+</div>
+
+{% include footer.html %}

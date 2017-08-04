@@ -1,0 +1,48 @@
+- name: Gabor Szurdoki
+  job_title: Freelancer
+  location: Hungary EU
+  image: /images/gabor.jpg
+  quote: "“I landed my first project after just 4 or 5 days. The monthly cost of Workshop is covered already, and I still have weeks left from my first month."
+  website: 
+
+- name: Corey Tiani  
+  job_title: Freelancer
+  location: Pittsburgh PA
+  image: /images/corey.png
+  quote: "“I'm crushing it – well into 6 figures in revenues this year, and exceeding my projections by like 50% (absurd!)."
+  website: 
+    
+- name: Patrick O'dwyer
+  job_title: Freelancer
+  location: Dublin IRE
+  image: /images/paddy.jpg
+  quote: "“I feels absolutely amazing not having to check job boards. Wading through all the crappy jobs to find the good ones was tough enough. I'm no longer stressed about what comes next."
+  website: 
+
+- name: Curtis Herbert
+  job_title: Owner at Breakpoint Studio
+  location: Collegeville PA
+  image: /images/curtis.jpeg
+  quote: "“I’ve been relying on word-of-mouth for work and this has been a nice easy way to start up that process without wasting time filtering through all the junk I was worried about.”"
+  website:
+
+- name: Kurt Elster
+  job_title: Owner of Ethercycle
+  location: Chicago IL
+  image: /images/kurt.jpeg
+  quote: "“Since starting with Workshop, I've had an unbroken chain of daily lead generation activity no matter what. I use my inbox as a to-do list and every day that workshop email is a convenient reminder to get selling.”"
+  website: http://ethercycle.com
+
+- name: Elliot Betancourt
+  job_title: Owner of Hip Dot Media
+  location: Fort Lauderdale FL
+  image: /images/elliot.jpg
+  quote: "“In seven months, I've closed 3 deals that total a little over $20,000-directly from the leads in Workshop. All three of these projects have led to long-term clients that continue to come back to me, so the value of these contracts continues to grow."
+  website: http://ethercycle.com
+
+- name: Eric Davis
+  job_title: Owner of Little Stream Software
+  location: Portland OR
+  image: /images/eric.png
+  quote: "“In less than a year I’ve won close to $65,000 in projects from Workshop alone. All of them have become repeat clients who I expect will be buying additional services over the next few years.<br>The best thing is it runs on email so it’s easy to process, archive, or save. If I get busy I can leave it alone until I have time for it."
+  website: http://littlestreamsoftware.com

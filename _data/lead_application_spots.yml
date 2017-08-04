@@ -1,0 +1,50 @@
+- name: '<img class="emoji" title=":elephant:" alt=":elephant:" src="https://assets.github.com/images/icons/emoji/unicode/1f418.png" height="20" width="20" align="absmiddle">PHP development'
+  description: "Drupal, Wordpress, and more..."
+  apply_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  waiting_list_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  full: false
+  spots: 3
+
+- name: '<img class="emoji" title=":coffee:" alt=":coffee:" src="https://assets.github.com/images/icons/emoji/unicode/2615.png" height="20" width="20" align="absmiddle">Javascript development'
+  description: "Angular, react, meteor, and more..."
+  apply_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  waiting_list_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  full: false
+  spots: 2
+    
+- name: '<img class="emoji" title=":speech_balloon:" alt=":speech_balloon:" src="https://assets.github.com/images/icons/emoji/unicode/1f4ac.png" height="20" width="20" align="absmiddle">Interaction design'
+  description: "UI/UX, web design and more..."
+  apply_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  waiting_list_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  full: false
+  spots: 2
+  
+- name: '<img class="emoji" title=":art:" alt=":art:" src="https://assets.github.com/images/icons/emoji/unicode/1f3a8.png" height="20" width="20" align="absmiddle">Graphic design'
+  description: "Branding, logos, illustration and more..."
+  apply_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  waiting_list_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  full: false
+  spots: 1
+
+- name: '<img class="emoji" title=":snake:" alt=":snake:" src="https://assets.github.com/images/icons/emoji/unicode/1f40d.png" height="20" width="20" align="absmiddle">Python development'
+  description: "Python projects and more..."
+  apply_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  waiting_list_link: "https://www.getdrip.com/forms/95954621/submissions/new"
+  full: true
+  spots: 0
+
+- name: '<img class="emoji" title=":iphone:" alt=":iphone:" src="https://assets.github.com/images/icons/emoji/unicode/1f4f1.png" height="20" width="20" align="absmiddle">Mobile development'
+  description: "iOS, Swift, Android and more..."
+  apply_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  waiting_list_link: "https://www.getdrip.com/forms/32565959/submissions/new"
+  full: true
+  spots: 0
+
+
+- name: '<img class="emoji" title=":diamonds:" alt=":diamonds:" src="https://assets.github.com/images/icons/emoji/unicode/2666.png" height="20" width="20" align="absmiddle">Ruby development'
+  description: "Rails projects and more..."
+  apply_link: "https://robertwilliams.typeform.com/to/XVOd5o"
+  waiting_list_link: "https://www.getdrip.com/forms/61647929/submissions/new"
+  full: true
+  spots: 0
+
