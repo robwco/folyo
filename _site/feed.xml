@@ -1,2 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://www.folyo.me/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.folyo.me/" rel="alternate" type="text/html" /><updated>2017-08-04T13:54:02-07:00</updated><id>http://www.folyo.me/</id><title type="html">Folyo - One great freelance project posted every day.</title><subtitle>I search the web and hand-pick the best freelance design and development project, served daily.
-</subtitle></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Folyo - One great freelance project posted every day.</title>
+    <description>I search the web and hand-pick the best freelance design and development project, served daily.
+</description>
+    <link>http://www.folyo.me/</link>
+    <atom:link href="http://www.folyo.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Aug 2017 14:07:31 -0700</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2017 14:07:31 -0700</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Android development project on gamer analytics app</title>
+        <description>https://www.jobfluent.com/jobs/android-developer-native-and-hybrid-freelance-barcelona-b340c3?result=14</description>
+        <pubDate>Thu, 03 Aug 2017 00:00:00 -0700</pubDate>
+        <link>http://www.folyo.mehttps://www.jobfluent.com/jobs/android-developer-native-and-hybrid-freelance-barcelona-b340c3?result=14</link>
+        <guid isPermaLink="false">https://www.jobfluent.com/jobs/android-developer-native-and-hybrid-freelance-barcelona-b340c3?result=14</guid>
+      </item>
+    
+      <item>
+        <title>Swift / iOS development project on music app</title>
+        <description>https://news.ycombinator.com/item?id=14910408</description>
+        <pubDate>Wed, 02 Aug 2017 00:00:00 -0700</pubDate>
+        <link>http://www.folyo.mehttps://news.ycombinator.com/item?id=14910408</link>
+        <guid isPermaLink="false">https://news.ycombinator.com/item?id=14910408</guid>
+      </item>
+    
+      <item>
+        <title>Logo design and rebrand project for renewable energy organization</title>
+        <description>https://www.goodwork.ca/jobs/toronto-environmental-education-charity-communications-and-marketing-consulting-project-42024</description>
+        <pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
+        <link>http://www.folyo.mehttps://www.goodwork.ca/jobs/toronto-environmental-education-charity-communications-and-marketing-consulting-project-42024</link>
+        <guid isPermaLink="false">https://www.goodwork.ca/jobs/toronto-environmental-education-charity-communications-and-marketing-consulting-project-42024</guid>
+      </item>
+    
+      <item>
+        <title>Node.JS development project on live streaming app for groups</title>
+        <description>https://angel.co/officialglimpse/jobs/263300-full-stack-developer</description>
+        <pubDate>Mon, 31 Jul 2017 00:00:00 -0700</pubDate>
+        <link>http://www.folyo.mehttps://angel.co/officialglimpse/jobs/263300-full-stack-developer</link>
+        <guid isPermaLink="false">https://angel.co/officialglimpse/jobs/263300-full-stack-developer</guid>
+      </item>
+    
+  </channel>
+</rss>
