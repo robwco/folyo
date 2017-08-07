@@ -16,8 +16,8 @@ layout: null
         <title>{{ project.title | xml_escape }}</title>
         <description>{{ project.url | xml_escape }}</description>
         <pubDate>{{ project.date | date_to_rfc822 }}</pubDate>
-        <link>{{ project.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="false">{{ project.url }}</guid>
+        <link>{{ project.url | xml_escape }}</link>
+        <guid isPermaLink="false">{{ project.url | xml_escape }}</guid>
       </item>
     {% endfor %}
   </channel>
