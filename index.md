@@ -19,6 +19,11 @@ layout: default
 			</div>
     </a>
 	{% endfor %}
+	
+	<div class="free-download-offer">
+		<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+		<div class="gumroad-product-embed" data-gumroad-product-id="PgSbF"><a href="https://gumroad.com/l/PgSbF">Loading...</a></div>
+	</div>
 </div>
 
 {% include footer.html %}

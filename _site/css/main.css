@@ -41,7 +41,7 @@ body {
 .homepage-project-list {
   max-width: 800px;
   margin: 1em auto 5em;
-  display: block; }
+  display: grid; }
 
 .homepage-project-list a {
   border-top: 1px solid #E2E2E2;
@@ -74,6 +74,12 @@ body {
   font-size: 14px;
   color: #AAAAAA;
   line-height: 2; }
+
+.homepage-project-list .free-download-offer {
+  grid-row: 6;
+  grid-column: span 1;
+  padding: 2em 0 2em;
+  border-top: 1px solid #E2E2E2; }
 
 footer a {
   color: #717171;
