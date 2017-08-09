@@ -3,17 +3,27 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Tue, 08 Aug 2017 12:44:09 -0700</lastBuildDate>	
+		<lastBuildDate>Wed, 09 Aug 2017 10:42:55 -0700</lastBuildDate>	
 		<link>http://www.folyo.me</link>
 		
 		
 		
 			<item>
-				<title>User experience and branding projects for marketing agency</title>      
+				<title>SEO and content marketing for social media app's new blog</title>      
+				<pubDate>Wed, 09 Aug 2017 00:00:00 -0700</pubDate>
+				<link>https://authenticjobs.com/jobs/29647/seo-specialist-content-manager</link>
+				<guid isPermaLink="true">https://authenticjobs.com/jobs/29647/seo-specialist-content-manager</guid>
+				<description>SEO and content marketing for social media app's new blog</description>
+				<author>Robert Williams</author>
+				<guid>https://authenticjobs.com/jobs/29647/seo-specialist-content-manager</link>
+			</item>
+		
+			<item>
+				<title>User experience and branding project for marketing agency</title>      
 				<pubDate>Tue, 08 Aug 2017 00:00:00 -0700</pubDate>
 				<link>https://www.indeed.com/viewjob?jk=1520e91bb0526279</link>
 				<guid isPermaLink="true">https://www.indeed.com/viewjob?jk=1520e91bb0526279</guid>
-				<description>User experience and branding projects for marketing agency</description>
+				<description>User experience and branding project for marketing agency</description>
 				<author>Robert Williams</author>
 				<guid>https://www.indeed.com/viewjob?jk=1520e91bb0526279</link>
 			</item>
@@ -46,16 +56,6 @@
 				<description>Android development project on gamer analytics app</description>
 				<author>Robert Williams</author>
 				<guid>https://www.jobfluent.com/jobs/android-developer-native-and-hybrid-freelance-barcelona-b340c3?result=14</link>
-			</item>
-		
-			<item>
-				<title>Swift / iOS development project on music app</title>      
-				<pubDate>Wed, 02 Aug 2017 00:00:00 -0700</pubDate>
-				<link>https://news.ycombinator.com/item?id=14910408</link>
-				<guid isPermaLink="true">https://news.ycombinator.com/item?id=14910408</guid>
-				<description>Swift / iOS development project on music app</description>
-				<author>Robert Williams</author>
-				<guid>https://news.ycombinator.com/item?id=14910408</link>
 			</item>
 		
 	</channel>
