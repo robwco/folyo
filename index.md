@@ -9,7 +9,7 @@ layout: default
 
 <p style="margin: 0 auto 0; max-width: 800px; color: #717171;">:raising_hand: Now hiring!</p>
 <div class="homepage-project-list">
-	{% for project in site.data.projects %}
+	{% for project in site.data.projects limit:10 %}
     <a href="{{ project.url }}">
 			<div class="project-info">
 				<div><img src="{{ project.picture }}"></div>

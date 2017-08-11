@@ -3,10 +3,20 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Thu, 10 Aug 2017 12:30:34 -0700</lastBuildDate>	
+		<lastBuildDate>Fri, 11 Aug 2017 10:04:00 -0700</lastBuildDate>	
 		<link>http://www.folyo.me</link>
 		
 		
+		
+			<item>
+				<title>Brand style guide project for Greenbook a travel guide app</title>      
+				<pubDate>Fri, 11 Aug 2017 00:00:00 -0700</pubDate>
+				<link>https://docs.google.com/document/d/1Iub7FiGoURzsLIU1xNapH2J6WovcyfEr_LNOcOMcCAI/edit</link>
+				<guid isPermaLink="true">https://docs.google.com/document/d/1Iub7FiGoURzsLIU1xNapH2J6WovcyfEr_LNOcOMcCAI/edit</guid>
+				<description>Brand style guide project for Greenbook a travel guide app</description>
+				<author>Robert Williams</author>
+				<guid>https://docs.google.com/document/d/1Iub7FiGoURzsLIU1xNapH2J6WovcyfEr_LNOcOMcCAI/edit</link>
+			</item>
 		
 			<item>
 				<title>Graphic and marketing design project for ecommerce store</title>      
@@ -46,16 +56,6 @@
 				<description>Front-end Angular.js development on business networking project</description>
 				<author>Robert Williams</author>
 				<guid>https://www.weloveangular.com/jobs/sr-front-end-engineer-angular-js-restful-apis-5703417800425472</link>
-			</item>
-		
-			<item>
-				<title>Front-end Javascript development on digital language lab project</title>      
-				<pubDate>Fri, 04 Aug 2017 00:00:00 -0700</pubDate>
-				<link>https://weworkremotely.com/jobs/5141-front-end-javascript-developer</link>
-				<guid isPermaLink="true">https://weworkremotely.com/jobs/5141-front-end-javascript-developer</guid>
-				<description>Front-end Javascript development on digital language lab project</description>
-				<author>Robert Williams</author>
-				<guid>https://weworkremotely.com/jobs/5141-front-end-javascript-developer</link>
 			</item>
 		
 	</channel>
