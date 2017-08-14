@@ -3,10 +3,20 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Fri, 11 Aug 2017 10:04:00 -0700</lastBuildDate>	
+		<lastBuildDate>Mon, 14 Aug 2017 10:04:28 -0700</lastBuildDate>	
 		<link>http://www.folyo.me</link>
 		
 		
+		
+			<item>
+				<title>Conversion optimization project for Growth Rock, a CRO agency</title>      
+				<pubDate>Mon, 14 Aug 2017 00:00:00 -0700</pubDate>
+				<link>https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</link>
+				<guid isPermaLink="true">https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</guid>
+				<description>Conversion optimization project for Growth Rock, a CRO agency</description>
+				<author>Robert Williams</author>
+				<guid>https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</link>
+			</item>
 		
 			<item>
 				<title>Brand style guide project for Greenbook a travel guide app</title>      
@@ -46,16 +56,6 @@
 				<description>User experience and branding project for marketing agency</description>
 				<author>Robert Williams</author>
 				<guid>https://www.indeed.com/viewjob?jk=1520e91bb0526279</link>
-			</item>
-		
-			<item>
-				<title>Front-end Angular.js development on business networking project</title>      
-				<pubDate>Mon, 07 Aug 2017 00:00:00 -0700</pubDate>
-				<link>https://www.weloveangular.com/jobs/sr-front-end-engineer-angular-js-restful-apis-5703417800425472</link>
-				<guid isPermaLink="true">https://www.weloveangular.com/jobs/sr-front-end-engineer-angular-js-restful-apis-5703417800425472</guid>
-				<description>Front-end Angular.js development on business networking project</description>
-				<author>Robert Williams</author>
-				<guid>https://www.weloveangular.com/jobs/sr-front-end-engineer-angular-js-restful-apis-5703417800425472</link>
 			</item>
 		
 	</channel>
