@@ -6,9 +6,17 @@
 </description>
     <link>http://www.folyo.me/</link>
     <atom:link href="http://www.folyo.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Aug 2017 10:04:28 -0700</pubDate>
-    <lastBuildDate>Mon, 14 Aug 2017 10:04:28 -0700</lastBuildDate>
+    <pubDate>Tue, 15 Aug 2017 10:05:00 -0700</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2017 10:05:00 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>iOS development project for grocery shopping app</title>
+        <description>https://angel.co/martai/jobs/268217-ios-developer</description>
+        <pubDate>Tue, 15 Aug 2017 00:00:00 -0700</pubDate>
+        <link>https://angel.co/martai/jobs/268217-ios-developer</link>
+        <guid isPermaLink="false">https://angel.co/martai/jobs/268217-ios-developer</guid>
+      </item>
     
       <item>
         <title>Conversion optimization project for Growth Rock, a CRO agency</title>
@@ -80,14 +88,6 @@
         <pubDate>Wed, 02 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://news.ycombinator.com/item?id=14910408</link>
         <guid isPermaLink="false">https://news.ycombinator.com/item?id=14910408</guid>
-      </item>
-    
-      <item>
-        <title>Logo design and rebrand project for renewable energy organization</title>
-        <description>https://www.goodwork.ca/jobs/toronto-environmental-education-charity-communications-and-marketing-consulting-project-42024</description>
-        <pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
-        <link>https://www.goodwork.ca/jobs/toronto-environmental-education-charity-communications-and-marketing-consulting-project-42024</link>
-        <guid isPermaLink="false">https://www.goodwork.ca/jobs/toronto-environmental-education-charity-communications-and-marketing-consulting-project-42024</guid>
       </item>
     
   </channel>
