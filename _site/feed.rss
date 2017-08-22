@@ -3,14 +3,24 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Sun, 20 Aug 2017 18:25:42 +0800</lastBuildDate>	
+		<lastBuildDate>Tue, 22 Aug 2017 21:59:11 +0700</lastBuildDate>	
 		<link>http://www.folyo.me</link>
 		
 		
 		
 			<item>
+				<title>Build new version of time-tracking mobile app</title>      
+				<pubDate>Mon, 21 Aug 2017 00:00:00 +0700</pubDate>
+				<link>https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</link>
+				<guid isPermaLink="true">https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</guid>
+				<description>Build new version of time-tracking mobile app</description>
+				<author>Robert Williams</author>
+				<guid>https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</link>
+			</item>
+		
+			<item>
 				<title>Writing project for Spoke, a service desk app</title>      
-				<pubDate>Fri, 18 Aug 2017 00:00:00 +0800</pubDate>
+				<pubDate>Fri, 18 Aug 2017 00:00:00 +0700</pubDate>
 				<link>https://angel.co/askspoke/jobs/268767-freelance-writer-for-b2b-blog</link>
 				<guid isPermaLink="true">https://angel.co/askspoke/jobs/268767-freelance-writer-for-b2b-blog</guid>
 				<description>Writing project for Spoke, a service desk app</description>
@@ -20,7 +30,7 @@
 		
 			<item>
 				<title>Website redesign project for CNVTV, a Canadian TV channel</title>      
-				<pubDate>Thu, 17 Aug 2017 00:00:00 +0800</pubDate>
+				<pubDate>Thu, 17 Aug 2017 00:00:00 +0700</pubDate>
 				<link>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/354/original/cnvtv-website-request-for-proposal.pdf</link>
 				<guid isPermaLink="true">http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/354/original/cnvtv-website-request-for-proposal.pdf</guid>
 				<description>Website redesign project for CNVTV, a Canadian TV channel</description>
@@ -30,7 +40,7 @@
 		
 			<item>
 				<title>Laravel development project for 39dollarglasses.com online store</title>      
-				<pubDate>Wed, 16 Aug 2017 00:00:00 +0800</pubDate>
+				<pubDate>Wed, 16 Aug 2017 00:00:00 +0700</pubDate>
 				<link>https://larajobs.com/job/973/remote-contract-2-months-back-end-developer</link>
 				<guid isPermaLink="true">https://larajobs.com/job/973/remote-contract-2-months-back-end-developer</guid>
 				<description>Laravel development project for 39dollarglasses.com online store</description>
@@ -40,22 +50,12 @@
 		
 			<item>
 				<title>iOS development project for grocery shopping app</title>      
-				<pubDate>Tue, 15 Aug 2017 00:00:00 +0800</pubDate>
+				<pubDate>Tue, 15 Aug 2017 00:00:00 +0700</pubDate>
 				<link>https://angel.co/martai/jobs/268217-ios-developer</link>
 				<guid isPermaLink="true">https://angel.co/martai/jobs/268217-ios-developer</guid>
 				<description>iOS development project for grocery shopping app</description>
 				<author>Robert Williams</author>
 				<guid>https://angel.co/martai/jobs/268217-ios-developer</link>
-			</item>
-		
-			<item>
-				<title>Conversion optimization project for Growth Rock, a CRO agency</title>      
-				<pubDate>Mon, 14 Aug 2017 00:00:00 +0800</pubDate>
-				<link>https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</link>
-				<guid isPermaLink="true">https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</guid>
-				<description>Conversion optimization project for Growth Rock, a CRO agency</description>
-				<author>Robert Williams</author>
-				<guid>https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</link>
 			</item>
 		
 	</channel>
