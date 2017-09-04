@@ -6,14 +6,22 @@
 </description>
     <link>http://www.folyo.me/</link>
     <atom:link href="http://www.folyo.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Aug 2017 21:59:11 +0700</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2017 21:59:11 +0700</lastBuildDate>
+    <pubDate>Mon, 04 Sep 2017 09:46:47 -0700</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2017 09:46:47 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Lafmatch – build a humor-based dating app in Ruby on Rails</title>
+        <description>https://lafmatch.breezy.hr/p/710b1c72897f-ruby-on-rails-developer</description>
+        <pubDate>Mon, 04 Sep 2017 00:00:00 -0700</pubDate>
+        <link>https://lafmatch.breezy.hr/p/710b1c72897f-ruby-on-rails-developer</link>
+        <guid isPermaLink="false">https://lafmatch.breezy.hr/p/710b1c72897f-ruby-on-rails-developer</guid>
+      </item>
     
       <item>
         <title>Build new version of time-tracking mobile app</title>
         <description>https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</description>
-        <pubDate>Mon, 21 Aug 2017 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 21 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</link>
         <guid isPermaLink="false">https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</guid>
       </item>
@@ -21,7 +29,7 @@
       <item>
         <title>Writing project for Spoke, a service desk app</title>
         <description>https://angel.co/askspoke/jobs/268767-freelance-writer-for-b2b-blog</description>
-        <pubDate>Fri, 18 Aug 2017 00:00:00 +0700</pubDate>
+        <pubDate>Fri, 18 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://angel.co/askspoke/jobs/268767-freelance-writer-for-b2b-blog</link>
         <guid isPermaLink="false">https://angel.co/askspoke/jobs/268767-freelance-writer-for-b2b-blog</guid>
       </item>
@@ -29,7 +37,7 @@
       <item>
         <title>Website redesign project for CNVTV, a Canadian TV channel</title>
         <description>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/354/original/cnvtv-website-request-for-proposal.pdf</description>
-        <pubDate>Thu, 17 Aug 2017 00:00:00 +0700</pubDate>
+        <pubDate>Thu, 17 Aug 2017 00:00:00 -0700</pubDate>
         <link>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/354/original/cnvtv-website-request-for-proposal.pdf</link>
         <guid isPermaLink="false">http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/354/original/cnvtv-website-request-for-proposal.pdf</guid>
       </item>
@@ -37,7 +45,7 @@
       <item>
         <title>Laravel development project for 39dollarglasses.com online store</title>
         <description>https://larajobs.com/job/973/remote-contract-2-months-back-end-developer</description>
-        <pubDate>Wed, 16 Aug 2017 00:00:00 +0700</pubDate>
+        <pubDate>Wed, 16 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://larajobs.com/job/973/remote-contract-2-months-back-end-developer</link>
         <guid isPermaLink="false">https://larajobs.com/job/973/remote-contract-2-months-back-end-developer</guid>
       </item>
@@ -45,7 +53,7 @@
       <item>
         <title>iOS development project for grocery shopping app</title>
         <description>https://angel.co/martai/jobs/268217-ios-developer</description>
-        <pubDate>Tue, 15 Aug 2017 00:00:00 +0700</pubDate>
+        <pubDate>Tue, 15 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://angel.co/martai/jobs/268217-ios-developer</link>
         <guid isPermaLink="false">https://angel.co/martai/jobs/268217-ios-developer</guid>
       </item>
@@ -53,7 +61,7 @@
       <item>
         <title>Conversion optimization project for Growth Rock, a CRO agency</title>
         <description>https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</description>
-        <pubDate>Mon, 14 Aug 2017 00:00:00 +0700</pubDate>
+        <pubDate>Mon, 14 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</link>
         <guid isPermaLink="false">https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</guid>
       </item>
@@ -61,7 +69,7 @@
       <item>
         <title>Brand style guide project for Greenbook a travel guide app</title>
         <description>https://docs.google.com/document/d/1Iub7FiGoURzsLIU1xNapH2J6WovcyfEr_LNOcOMcCAI/edit</description>
-        <pubDate>Fri, 11 Aug 2017 00:00:00 +0700</pubDate>
+        <pubDate>Fri, 11 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://docs.google.com/document/d/1Iub7FiGoURzsLIU1xNapH2J6WovcyfEr_LNOcOMcCAI/edit</link>
         <guid isPermaLink="false">https://docs.google.com/document/d/1Iub7FiGoURzsLIU1xNapH2J6WovcyfEr_LNOcOMcCAI/edit</guid>
       </item>
@@ -69,7 +77,7 @@
       <item>
         <title>Graphic and marketing design project for ecommerce store</title>
         <description>http://www.coroflot.com/jobs/78802/Freelance-Graphic-Designer</description>
-        <pubDate>Thu, 10 Aug 2017 00:00:00 +0700</pubDate>
+        <pubDate>Thu, 10 Aug 2017 00:00:00 -0700</pubDate>
         <link>http://www.coroflot.com/jobs/78802/Freelance-Graphic-Designer</link>
         <guid isPermaLink="false">http://www.coroflot.com/jobs/78802/Freelance-Graphic-Designer</guid>
       </item>
@@ -77,17 +85,9 @@
       <item>
         <title>SEO and content marketing for social media app's new blog</title>
         <description>https://authenticjobs.com/jobs/29647/seo-specialist-content-manager</description>
-        <pubDate>Wed, 09 Aug 2017 00:00:00 +0700</pubDate>
+        <pubDate>Wed, 09 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://authenticjobs.com/jobs/29647/seo-specialist-content-manager</link>
         <guid isPermaLink="false">https://authenticjobs.com/jobs/29647/seo-specialist-content-manager</guid>
-      </item>
-    
-      <item>
-        <title>User experience and branding project for marketing agency</title>
-        <description>https://www.indeed.com/viewjob?jk=1520e91bb0526279</description>
-        <pubDate>Tue, 08 Aug 2017 00:00:00 +0700</pubDate>
-        <link>https://www.indeed.com/viewjob?jk=1520e91bb0526279</link>
-        <guid isPermaLink="false">https://www.indeed.com/viewjob?jk=1520e91bb0526279</guid>
       </item>
     
   </channel>
