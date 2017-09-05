@@ -4,11 +4,19 @@
     <title>Folyo - One great freelance project posted every day.</title>
     <description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>
-    <link>http://www.folyo.me/</link>
-    <atom:link href="http://www.folyo.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Sep 2017 09:46:47 -0700</pubDate>
-    <lastBuildDate>Mon, 04 Sep 2017 09:46:47 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Sep 2017 16:52:19 -0700</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2017 16:52:19 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Emerald magazine – help cannabis magazine maintain their website</title>
+        <description>https://angel.co/the-emerad-magazine/jobs/275162-web-manager</description>
+        <pubDate>Tue, 05 Sep 2017 00:00:00 -0700</pubDate>
+        <link>https://angel.co/the-emerad-magazine/jobs/275162-web-manager</link>
+        <guid isPermaLink="false">https://angel.co/the-emerad-magazine/jobs/275162-web-manager</guid>
+      </item>
     
       <item>
         <title>Lafmatch – build a humor-based dating app in Ruby on Rails</title>
@@ -80,14 +88,6 @@
         <pubDate>Thu, 10 Aug 2017 00:00:00 -0700</pubDate>
         <link>http://www.coroflot.com/jobs/78802/Freelance-Graphic-Designer</link>
         <guid isPermaLink="false">http://www.coroflot.com/jobs/78802/Freelance-Graphic-Designer</guid>
-      </item>
-    
-      <item>
-        <title>SEO and content marketing for social media app's new blog</title>
-        <description>https://authenticjobs.com/jobs/29647/seo-specialist-content-manager</description>
-        <pubDate>Wed, 09 Aug 2017 00:00:00 -0700</pubDate>
-        <link>https://authenticjobs.com/jobs/29647/seo-specialist-content-manager</link>
-        <guid isPermaLink="false">https://authenticjobs.com/jobs/29647/seo-specialist-content-manager</guid>
       </item>
     
   </channel>
