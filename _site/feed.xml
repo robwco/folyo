@@ -6,9 +6,17 @@
 </description>
     <link>http://www.folyo.me/</link>
     <atom:link href="http://www.folyo.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Sep 2017 17:47:55 -0700</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2017 17:47:55 -0700</lastBuildDate>
+    <pubDate>Thu, 07 Sep 2017 09:25:37 -0700</pubDate>
+    <lastBuildDate>Thu, 07 Sep 2017 09:25:37 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Viu – design a brand style guide for video streaming app</title>
+        <description>https://www.behance.net/joblist/58077/Brand-Designer</description>
+        <pubDate>Thu, 07 Sep 2017 00:00:00 -0700</pubDate>
+        <link>https://www.behance.net/joblist/58077/Brand-Designer</link>
+        <guid isPermaLink="false">https://www.behance.net/joblist/58077/Brand-Designer</guid>
+      </item>
     
       <item>
         <title>Draftsend – design the front-end of a new presentation app </title>
@@ -80,14 +88,6 @@
         <pubDate>Mon, 14 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</link>
         <guid isPermaLink="false">https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</guid>
-      </item>
-    
-      <item>
-        <title>Brand style guide project for Greenbook a travel guide app</title>
-        <description>https://docs.google.com/document/d/1Iub7FiGoURzsLIU1xNapH2J6WovcyfEr_LNOcOMcCAI/edit</description>
-        <pubDate>Fri, 11 Aug 2017 00:00:00 -0700</pubDate>
-        <link>https://docs.google.com/document/d/1Iub7FiGoURzsLIU1xNapH2J6WovcyfEr_LNOcOMcCAI/edit</link>
-        <guid isPermaLink="false">https://docs.google.com/document/d/1Iub7FiGoURzsLIU1xNapH2J6WovcyfEr_LNOcOMcCAI/edit</guid>
       </item>
     
   </channel>

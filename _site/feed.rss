@@ -3,10 +3,20 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Wed, 06 Sep 2017 17:47:55 -0700</lastBuildDate>	
+		<lastBuildDate>Thu, 07 Sep 2017 09:25:37 -0700</lastBuildDate>	
 		<link>http://www.folyo.me</link>
 		
 		
+		
+			<item>
+				<title>Viu – design a brand style guide for video streaming app</title>      
+				<pubDate>Thu, 07 Sep 2017 00:00:00 -0700</pubDate>
+				<link>https://www.behance.net/joblist/58077/Brand-Designer</link>
+				<guid isPermaLink="true">https://www.behance.net/joblist/58077/Brand-Designer</guid>
+				<description>Viu – design a brand style guide for video streaming app</description>
+				<author>Robert Williams</author>
+				<guid>https://www.behance.net/joblist/58077/Brand-Designer</link>
+			</item>
 		
 			<item>
 				<title>Draftsend – design the front-end of a new presentation app </title>      
@@ -46,16 +56,6 @@
 				<description>Build new version of time-tracking mobile app</description>
 				<author>Robert Williams</author>
 				<guid>https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</link>
-			</item>
-		
-			<item>
-				<title>Writing project for Spoke, a service desk app</title>      
-				<pubDate>Fri, 18 Aug 2017 00:00:00 -0700</pubDate>
-				<link>https://angel.co/askspoke/jobs/268767-freelance-writer-for-b2b-blog</link>
-				<guid isPermaLink="true">https://angel.co/askspoke/jobs/268767-freelance-writer-for-b2b-blog</guid>
-				<description>Writing project for Spoke, a service desk app</description>
-				<author>Robert Williams</author>
-				<guid>https://angel.co/askspoke/jobs/268767-freelance-writer-for-b2b-blog</link>
 			</item>
 		
 	</channel>
