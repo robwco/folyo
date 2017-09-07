@@ -3,10 +3,20 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Tue, 05 Sep 2017 16:52:19 -0700</lastBuildDate>	
-		<link>http://localhost:4000</link>
+		<lastBuildDate>Wed, 06 Sep 2017 17:47:55 -0700</lastBuildDate>	
+		<link>http://www.folyo.me</link>
 		
 		
+		
+			<item>
+				<title>Draftsend – design the front-end of a new presentation app </title>      
+				<pubDate>Wed, 06 Sep 2017 00:00:00 -0700</pubDate>
+				<link>https://weworkremotely.com/jobs/5319-front-end-developer</link>
+				<guid isPermaLink="true">https://weworkremotely.com/jobs/5319-front-end-developer</guid>
+				<description>Draftsend – design the front-end of a new presentation app </description>
+				<author>Robert Williams</author>
+				<guid>https://weworkremotely.com/jobs/5319-front-end-developer</link>
+			</item>
 		
 			<item>
 				<title>Emerald magazine – help cannabis magazine maintain their website</title>      
@@ -46,16 +56,6 @@
 				<description>Writing project for Spoke, a service desk app</description>
 				<author>Robert Williams</author>
 				<guid>https://angel.co/askspoke/jobs/268767-freelance-writer-for-b2b-blog</link>
-			</item>
-		
-			<item>
-				<title>Website redesign project for CNVTV, a Canadian TV channel</title>      
-				<pubDate>Thu, 17 Aug 2017 00:00:00 -0700</pubDate>
-				<link>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/354/original/cnvtv-website-request-for-proposal.pdf</link>
-				<guid isPermaLink="true">http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/354/original/cnvtv-website-request-for-proposal.pdf</guid>
-				<description>Website redesign project for CNVTV, a Canadian TV channel</description>
-				<author>Robert Williams</author>
-				<guid>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/354/original/cnvtv-website-request-for-proposal.pdf</link>
 			</item>
 		
 	</channel>
