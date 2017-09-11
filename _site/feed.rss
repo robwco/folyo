@@ -3,17 +3,27 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Thu, 07 Sep 2017 09:25:37 -0700</lastBuildDate>	
+		<lastBuildDate>Mon, 11 Sep 2017 09:32:54 -0700</lastBuildDate>	
 		<link>http://www.folyo.me</link>
 		
 		
 		
 			<item>
-				<title>Viu – design a brand style guide for video streaming app</title>      
+				<title>Yello Media Group - design and build a website and app focused on Caribbean travel</title>      
+				<pubDate>Fri, 08 Sep 2017 00:00:00 -0700</pubDate>
+				<link>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</link>
+				<guid isPermaLink="true">http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</guid>
+				<description>Yello Media Group - design and build a website and app focused on Caribbean travel</description>
+				<author>Robert Williams</author>
+				<guid>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</link>
+			</item>
+		
+			<item>
+				<title>Viu – design a brand identity for video streaming app</title>      
 				<pubDate>Thu, 07 Sep 2017 00:00:00 -0700</pubDate>
 				<link>https://www.behance.net/joblist/58077/Brand-Designer</link>
 				<guid isPermaLink="true">https://www.behance.net/joblist/58077/Brand-Designer</guid>
-				<description>Viu – design a brand style guide for video streaming app</description>
+				<description>Viu – design a brand identity for video streaming app</description>
 				<author>Robert Williams</author>
 				<guid>https://www.behance.net/joblist/58077/Brand-Designer</link>
 			</item>
@@ -46,16 +56,6 @@
 				<description>Lafmatch – build a humor-based dating app in Ruby on Rails</description>
 				<author>Robert Williams</author>
 				<guid>https://lafmatch.breezy.hr/p/710b1c72897f-ruby-on-rails-developer</link>
-			</item>
-		
-			<item>
-				<title>Build new version of time-tracking mobile app</title>      
-				<pubDate>Mon, 21 Aug 2017 00:00:00 -0700</pubDate>
-				<link>https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</link>
-				<guid isPermaLink="true">https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</guid>
-				<description>Build new version of time-tracking mobile app</description>
-				<author>Robert Williams</author>
-				<guid>https://www.wfh.io/jobs/3822-mobile-developer-contractor-clicktime</link>
 			</item>
 		
 	</channel>

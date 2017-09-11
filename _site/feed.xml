@@ -6,12 +6,20 @@
 </description>
     <link>http://www.folyo.me/</link>
     <atom:link href="http://www.folyo.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Sep 2017 09:25:37 -0700</pubDate>
-    <lastBuildDate>Thu, 07 Sep 2017 09:25:37 -0700</lastBuildDate>
+    <pubDate>Mon, 11 Sep 2017 09:32:54 -0700</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2017 09:32:54 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
-        <title>Viu – design a brand style guide for video streaming app</title>
+        <title>Yello Media Group - design and build a website and app focused on Caribbean travel</title>
+        <description>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</description>
+        <pubDate>Fri, 08 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</link>
+        <guid isPermaLink="false">http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</guid>
+      </item>
+    
+      <item>
+        <title>Viu – design a brand identity for video streaming app</title>
         <description>https://www.behance.net/joblist/58077/Brand-Designer</description>
         <pubDate>Thu, 07 Sep 2017 00:00:00 -0700</pubDate>
         <link>https://www.behance.net/joblist/58077/Brand-Designer</link>
@@ -80,14 +88,6 @@
         <pubDate>Tue, 15 Aug 2017 00:00:00 -0700</pubDate>
         <link>https://angel.co/martai/jobs/268217-ios-developer</link>
         <guid isPermaLink="false">https://angel.co/martai/jobs/268217-ios-developer</guid>
-      </item>
-    
-      <item>
-        <title>Conversion optimization project for Growth Rock, a CRO agency</title>
-        <description>https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</description>
-        <pubDate>Mon, 14 Aug 2017 00:00:00 -0700</pubDate>
-        <link>https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</link>
-        <guid isPermaLink="false">https://docs.google.com/forms/d/e/1FAIpQLSc-51woThnwUdq9T1iJmeBGQkzipK9OU9mdr1KgMGsRmUQlGw/viewform</guid>
       </item>
     
   </channel>
