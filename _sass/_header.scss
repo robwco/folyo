@@ -8,7 +8,7 @@
 }
 
 .header .name-logo h1 a img {
-	max-width: 225px;
+	max-width: 150px;
 }
 
 .header .name-logo h1 a {
@@ -29,4 +29,15 @@
 
 .header h3 {
 	font-size: 110%;
+}
+
+a.button {
+	font-size: 80%;
+	padding: .25em .5em .3em;
+	background-color: #eee;
+	border:1px solid #e2e2e2;
+	text-decoration: none;
+	border-radius: 5px;
+	margin-bottom: 2em;
+	color:#333;
 }

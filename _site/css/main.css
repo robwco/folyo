@@ -15,7 +15,7 @@ h1, h2 {
   text-align: center; }
 
 .header .name-logo h1 a img {
-  max-width: 225px; }
+  max-width: 150px; }
 
 .header .name-logo h1 a {
   margin: 0 auto;
@@ -32,6 +32,16 @@ h1, h2 {
 
 .header h3 {
   font-size: 110%; }
+
+a.button {
+  font-size: 80%;
+  padding: .25em .5em .3em;
+  background-color: #eee;
+  border: 1px solid #e2e2e2;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-bottom: 2em;
+  color: #333; }
 
 body {
   margin: 0;
@@ -51,7 +61,7 @@ body {
   padding: 1em;
   text-decoration: none;
   color: #333333;
-  font-size: 21px; }
+  font-size: 19px; }
 
 .homepage-project-list a:last-child {
   border-bottom: 1px solid #E2E2E2; }
@@ -59,7 +69,7 @@ body {
 .homepage-project-list a .project-info {
   display: grid;
   width: 100%;
-  grid-template-columns: 66px 1fr;
+  grid-template-columns: 50px 1fr;
   grid-column-gap: 2rem;
   align-items: center;
   margin-top: -15px; }

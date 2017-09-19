@@ -3,10 +3,20 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Mon, 18 Sep 2017 09:29:51 -0700</lastBuildDate>	
-		<link>http://www.folyo.me</link>
+		<lastBuildDate>Tue, 19 Sep 2017 14:49:32 -0700</lastBuildDate>	
+		<link>http://localhost:4000</link>
 		
 		
+		
+			<item>
+				<title>Medicare Pathfinder - develop the front-end for a medicare plan finding app</title>      
+				<pubDate>Tue, 19 Sep 2017 00:00:00 -0700</pubDate>
+				<link>https://hypepotamus.com/jobs/medicare-pathfinder-atlanta-ga-47-front-end-developer/</link>
+				<guid isPermaLink="true">https://hypepotamus.com/jobs/medicare-pathfinder-atlanta-ga-47-front-end-developer/</guid>
+				<description>Medicare Pathfinder - develop the front-end for a medicare plan finding app</description>
+				<author>Robert Williams</author>
+				<guid>https://hypepotamus.com/jobs/medicare-pathfinder-atlanta-ga-47-front-end-developer/</link>
+			</item>
 		
 			<item>
 				<title>Lessonface - improve usability of live online music lesson app</title>      
@@ -46,16 +56,6 @@
 				<description>PropertyWebBuilder - develop an iOS app for real-estate company</description>
 				<author>Robert Williams</author>
 				<guid>https://news.ycombinator.com/item?id=15151427</link>
-			</item>
-		
-			<item>
-				<title>Rebel - design HTML/CSS email content for a mail app support team</title>      
-				<pubDate>Tue, 12 Sep 2017 00:00:00 -0700</pubDate>
-				<link>https://gorebel.com/careers.html</link>
-				<guid isPermaLink="true">https://gorebel.com/careers.html</guid>
-				<description>Rebel - design HTML/CSS email content for a mail app support team</description>
-				<author>Robert Williams</author>
-				<guid>https://gorebel.com/careers.html</link>
 			</item>
 		
 	</channel>

@@ -18,7 +18,7 @@ body {
 	padding: 1em;
 	text-decoration: none;
 	color: #333333;
-	font-size: 21px;
+	font-size: 19px;
 }
 
 .homepage-project-list a:last-child {
@@ -28,7 +28,7 @@ body {
 .homepage-project-list a .project-info {
 	display: grid;
 	width: 100%;
-	grid-template-columns: 66px 1fr;
+	grid-template-columns: 50px 1fr;
 	grid-column-gap: 2rem;
 	align-items: center;
 	margin-top: -15px;
