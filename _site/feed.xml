@@ -6,9 +6,25 @@
 </description>
     <link>http://www.folyo.me/</link>
     <atom:link href="http://www.folyo.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Sep 2017 14:50:02 -0700</pubDate>
-    <lastBuildDate>Tue, 19 Sep 2017 14:50:02 -0700</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2017 16:46:16 -0700</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2017 16:46:16 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Collective Health - design icons for health plan app</title>
+        <description>https://collectivehealth.com/jobs/apply/855168/</description>
+        <pubDate>Thu, 21 Sep 2017 00:00:00 -0700</pubDate>
+        <link>https://collectivehealth.com/jobs/apply/855168/</link>
+        <guid isPermaLink="false">https://collectivehealth.com/jobs/apply/855168/</guid>
+      </item>
+    
+      <item>
+        <title>Minnesota Online - develop app for student profiles and learning plans</title>
+        <description>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/376/original/MNOHS_RFP_for_a_Web-Based_Student_Profile_Tool.pdf</description>
+        <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/376/original/MNOHS_RFP_for_a_Web-Based_Student_Profile_Tool.pdf</link>
+        <guid isPermaLink="false">http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/376/original/MNOHS_RFP_for_a_Web-Based_Student_Profile_Tool.pdf</guid>
+      </item>
     
       <item>
         <title>Medicare Pathfinder - develop the front-end for a medicare plan finding app</title>
@@ -72,22 +88,6 @@
         <pubDate>Fri, 08 Sep 2017 00:00:00 -0700</pubDate>
         <link>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</link>
         <guid isPermaLink="false">http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</guid>
-      </item>
-    
-      <item>
-        <title>Viu – design a brand identity for video streaming app</title>
-        <description>https://www.behance.net/joblist/58077/Brand-Designer</description>
-        <pubDate>Thu, 07 Sep 2017 00:00:00 -0700</pubDate>
-        <link>https://www.behance.net/joblist/58077/Brand-Designer</link>
-        <guid isPermaLink="false">https://www.behance.net/joblist/58077/Brand-Designer</guid>
-      </item>
-    
-      <item>
-        <title>Draftsend – design the front-end of a new presentation app </title>
-        <description>https://weworkremotely.com/jobs/5319-front-end-developer</description>
-        <pubDate>Wed, 06 Sep 2017 00:00:00 -0700</pubDate>
-        <link>https://weworkremotely.com/jobs/5319-front-end-developer</link>
-        <guid isPermaLink="false">https://weworkremotely.com/jobs/5319-front-end-developer</guid>
       </item>
     
   </channel>

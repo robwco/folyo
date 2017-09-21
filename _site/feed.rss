@@ -3,10 +3,30 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Tue, 19 Sep 2017 14:50:02 -0700</lastBuildDate>	
+		<lastBuildDate>Thu, 21 Sep 2017 16:46:16 -0700</lastBuildDate>	
 		<link>http://www.folyo.me</link>
 		
 		
+		
+			<item>
+				<title>Collective Health - design icons for health plan app</title>      
+				<pubDate>Thu, 21 Sep 2017 00:00:00 -0700</pubDate>
+				<link>https://collectivehealth.com/jobs/apply/855168/</link>
+				<guid isPermaLink="true">https://collectivehealth.com/jobs/apply/855168/</guid>
+				<description>Collective Health - design icons for health plan app</description>
+				<author>Robert Williams</author>
+				<guid>https://collectivehealth.com/jobs/apply/855168/</link>
+			</item>
+		
+			<item>
+				<title>Minnesota Online - develop app for student profiles and learning plans</title>      
+				<pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+				<link>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/376/original/MNOHS_RFP_for_a_Web-Based_Student_Profile_Tool.pdf</link>
+				<guid isPermaLink="true">http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/376/original/MNOHS_RFP_for_a_Web-Based_Student_Profile_Tool.pdf</guid>
+				<description>Minnesota Online - develop app for student profiles and learning plans</description>
+				<author>Robert Williams</author>
+				<guid>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/376/original/MNOHS_RFP_for_a_Web-Based_Student_Profile_Tool.pdf</link>
+			</item>
 		
 			<item>
 				<title>Medicare Pathfinder - develop the front-end for a medicare plan finding app</title>      
@@ -36,26 +56,6 @@
 				<description>Picpix - design event invitations for social photo app</description>
 				<author>Robert Williams</author>
 				<guid>https://www.behance.net/joblist/58143/Need-party-invitation-designer</link>
-			</item>
-		
-			<item>
-				<title>Fountain City - needs drupal development for client projects</title>      
-				<pubDate>Thu, 14 Sep 2017 00:00:00 -0700</pubDate>
-				<link>https://jobs.drupal.org/fountain-city-inc/job/14405</link>
-				<guid isPermaLink="true">https://jobs.drupal.org/fountain-city-inc/job/14405</guid>
-				<description>Fountain City - needs drupal development for client projects</description>
-				<author>Robert Williams</author>
-				<guid>https://jobs.drupal.org/fountain-city-inc/job/14405</link>
-			</item>
-		
-			<item>
-				<title>PropertyWebBuilder - develop an iOS app for real-estate company</title>      
-				<pubDate>Wed, 13 Sep 2017 00:00:00 -0700</pubDate>
-				<link>https://news.ycombinator.com/item?id=15151427</link>
-				<guid isPermaLink="true">https://news.ycombinator.com/item?id=15151427</guid>
-				<description>PropertyWebBuilder - develop an iOS app for real-estate company</description>
-				<author>Robert Williams</author>
-				<guid>https://news.ycombinator.com/item?id=15151427</link>
 			</item>
 		
 	</channel>
