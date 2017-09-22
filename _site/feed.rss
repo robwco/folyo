@@ -3,10 +3,20 @@
 		<title></title>
 		<description>I search the web and hand-pick the best freelance design and development project, served daily.
 </description>	
-		<lastBuildDate>Thu, 21 Sep 2017 16:46:16 -0700</lastBuildDate>	
+		<lastBuildDate>Fri, 22 Sep 2017 09:24:12 -0700</lastBuildDate>	
 		<link>http://www.folyo.me</link>
 		
 		
+		
+			<item>
+				<title>Clearstream - develop features for Laravel-based SMS tool for non-profits</title>      
+				<pubDate>Fri, 22 Sep 2017 00:00:00 -0700</pubDate>
+				<link>https://getclearstream.com/jobs</link>
+				<guid isPermaLink="true">https://getclearstream.com/jobs</guid>
+				<description>Clearstream - develop features for Laravel-based SMS tool for non-profits</description>
+				<author>Robert Williams</author>
+				<guid>https://getclearstream.com/jobs</link>
+			</item>
 		
 			<item>
 				<title>Collective Health - design icons for health plan app</title>      
@@ -46,16 +56,6 @@
 				<description>Lessonface - improve usability of live online music lesson app</description>
 				<author>Robert Williams</author>
 				<guid>https://jobs.drupal.org/lessonfacecom-inc/job/14413</link>
-			</item>
-		
-			<item>
-				<title>Picpix - design event invitations for social photo app</title>      
-				<pubDate>Fri, 15 Sep 2017 00:00:00 -0700</pubDate>
-				<link>https://www.behance.net/joblist/58143/Need-party-invitation-designer</link>
-				<guid isPermaLink="true">https://www.behance.net/joblist/58143/Need-party-invitation-designer</guid>
-				<description>Picpix - design event invitations for social photo app</description>
-				<author>Robert Williams</author>
-				<guid>https://www.behance.net/joblist/58143/Need-party-invitation-designer</link>
 			</item>
 		
 	</channel>

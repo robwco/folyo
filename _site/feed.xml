@@ -6,9 +6,17 @@
 </description>
     <link>http://www.folyo.me/</link>
     <atom:link href="http://www.folyo.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Sep 2017 16:46:16 -0700</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2017 16:46:16 -0700</lastBuildDate>
+    <pubDate>Fri, 22 Sep 2017 09:24:12 -0700</pubDate>
+    <lastBuildDate>Fri, 22 Sep 2017 09:24:12 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Clearstream - develop features for Laravel-based SMS tool for non-profits</title>
+        <description>https://getclearstream.com/jobs</description>
+        <pubDate>Fri, 22 Sep 2017 00:00:00 -0700</pubDate>
+        <link>https://getclearstream.com/jobs</link>
+        <guid isPermaLink="false">https://getclearstream.com/jobs</guid>
+      </item>
     
       <item>
         <title>Collective Health - design icons for health plan app</title>
@@ -80,14 +88,6 @@
         <pubDate>Mon, 11 Sep 2017 00:00:00 -0700</pubDate>
         <link>https://www.behance.net/joblist/58103/Senior-UIUX-Designer</link>
         <guid isPermaLink="false">https://www.behance.net/joblist/58103/Senior-UIUX-Designer</guid>
-      </item>
-    
-      <item>
-        <title>Yello Media Group - design and build a website and app focused on Caribbean travel</title>
-        <description>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</description>
-        <pubDate>Fri, 08 Sep 2017 00:00:00 -0700</pubDate>
-        <link>http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</link>
-        <guid isPermaLink="false">http://s3.amazonaws.com/letsworkshop/rfps/files/000/000/373/original/RFPYMG001.pdf</guid>
       </item>
     
   </channel>
