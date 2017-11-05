@@ -103,6 +103,8 @@ var countDownDate = getNextDayOfWeek(new Date(),5,17);
 	
 	<p>The next newsletter goes out in <span id="circle-days" class="circle-time"></span>, <span id="circle-hours" class="circle-time"></span>, <span id="circle-minutes" class="circle-time"></span>, and <span id="circle-seconds" class="circle-time"></span><span id="timer"></span>.</p>
 	
+	<p>We check every freelancer's portfolio by hand</p>
+	
 	<p>Before building a custom app, we ran on Wufoo and Mailchimp</p>
 
 	<p>We were originally founded by designer <a href="http://sachagreif.com">Sacha Greif</a></p>

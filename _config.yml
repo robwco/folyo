@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Folyo - One great freelance project posted every day.
+title: Folyo - Find a great designer or developer.
 email: help@folyo.me
 description: >
   I search the web and hand-pick the best freelance design and development project, served daily.
