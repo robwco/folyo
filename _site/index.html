@@ -15,9 +15,9 @@
 
   <link rel="stylesheet" media="all" href="/css/main.css">
 
-  <link rel="canonical" href="http://www.folyo.me/">
+  <link rel="canonical" href="http://localhost:4000/">
 
-  <link rel="alternate" type="application/rss+xml" title="Folyo - One great freelance project posted every day." href="http://www.folyo.me/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Folyo - One great freelance project posted every day." href="http://localhost:4000/feed.xml">
 
 	<!-- Google Analytics -->
 	<script>
@@ -34,6 +34,112 @@
 
 <body>
 	
+<style>
+.fun-facts {
+	margin: 3em 0 0;
+	font-size: 85%;
+	color: #777;
+}
+
+.fun-facts h3 {
+	color: #222;
+	padding: 0;
+	margin: .5em 0;
+	font-size: 80%;
+}
+
+.fun-facts p {
+	border-top: 1px solid #ccc;
+	padding: .5em .5em;
+	margin: 0;
+}
+
+.timer-font {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+</style>
+
+<script>
+function getNextDayOfWeek(date, dayOfWeek, hour) {
+      var resultDate = new Date(date.getTime());
+    resultDate.setDate(date.getDate() + (7 + dayOfWeek - date.getDay()) % 7);
+   resultDate.setHours(hour,0,0,0);
+    return resultDate;
+}
+
+var countDownDate = getNextDayOfWeek(new Date(),5,17);
+
+// Update the count down every 1 second
+  var x = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now an the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24)).toString();
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)).toString();
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)).toString();
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000).toString();
+
+  // Display the result in the element with id="timer"
+  document.getElementById("circle-days").innerHTML = days + " <div class='timer-font'>days</div>";
+  document.getElementById("circle-hours").innerHTML = hours + " <div class='timer-font'>hours</div>";
+  document.getElementById("circle-minutes").innerHTML = minutes + " <div class='timer-font'>minutes</div>";
+  document.getElementById("circle-seconds").innerHTML = seconds + " <div class='timer-font'>seconds</div>";
+
+  // If the count down is finished, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("timer").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+
+<div class="header">
+	<div class="name-logo">
+		<h1>
+			<a href="/"><img alt="Folyo" src="./images/folyo-logo.png"></a>
+		</h1>
+	</div>
+</div>
+
+<div style="max-width: 550px; margin: -2em auto 5em; color: #444; line-height: 1.5; font-size: 110%;">
+	<p>Folyo connects startups with trustworthy design and development firms over email. Here's how it works:</p>
+
+	<ol>
+		<li>Email us your project (include timeline and budget).</li>
+		<li>We review it to see if we can help.</li>
+		<li>If so, we send it to 2,500+ freelancers in the next newsletter.</li>
+		<li>You get proposals to your email.</li>
+	</ol>
+
+	<p>It's easy. It's fast. And it's free.</p>
+
+	<p><a href="MAILTO:robert@letsworkshop.com" class="button" style="background-color: #6d82ff; color: #FFF; border:0; padding: .45em 1em .5em; font-size: 120%; margin: 2em 0;">Start the process - email us</a></p>
+	
+	<p class="workshop-upsell" style="color: #999;font-size: 80%; margin: 0 0 1em">Freelancers: Want to get the weekly newsletter? <a href="http://letsworkshop.com" style="color: #777;">Apply by signing up on Workshop</a></p>
+	
+	<div class="fun-facts">
+		
+	<h3>Some fun facts about Folyo...</h3>
+	
+	<p>We've helped Dropbox, Airbnb, Square, Intercom and more...</p>
+	
+	<p>The next newsletter goes out in <span id="circle-days" class="circle-time"></span>, <span id="circle-hours" class="circle-time"></span>, <span id="circle-minutes" class="circle-time"></span>, and <span id="circle-seconds" class="circle-time"></span><span id="timer"></span>.</p>
+	
+	<p>Before building a custom app, we ran on Wufoo and Mailchimp</p>
+
+	<p>We were originally founded by designer <a href="http://sachagreif.com">Sacha Greif</a></p>
+
+	</div>
+</div>
+
+<!--
 <div class="header">
 	<div class="name-logo">
 		<h1>
@@ -64,15 +170,14 @@
 	</div>
 </div>
 
-<p style="margin: 0 auto 0; max-width: 800px; color: #717171;"><img class="emoji" title=":raising_hand:" alt=":raising_hand:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64b.png" height="20" width="20" align="absmiddle"> Now hiring!</p>
+<p style="margin: 0 auto 0; max-width: 800px; color: #717171;">:raising_hand: Now hiring!</p>
 <div class="homepage-project-list">
 	
     <a href="https://getclearstream.com/jobs">
 			<div class="project-info">
 				<div><img src="./images/clearstream.jpg"></div>
 				
-				<div>
-<span class="date">September 22, 2017</span><br>
+				<div><span class="date">September 22, 2017</span><br>
 					Clearstream - develop features for Laravel-based SMS tool for non-profits</div>
 			</div>
     </a>
@@ -81,8 +186,7 @@
 			<div class="project-info">
 				<div><img src="./images/collective-health.png"></div>
 				
-				<div>
-<span class="date">September 21, 2017</span><br>
+				<div><span class="date">September 21, 2017</span><br>
 					Collective Health - design icons for health plan app</div>
 			</div>
     </a>
@@ -91,8 +195,7 @@
 			<div class="project-info">
 				<div><img src="./images/minnesotaonlineschool.jpg"></div>
 				
-				<div>
-<span class="date">September 20, 2017</span><br>
+				<div><span class="date">September 20, 2017</span><br>
 					Minnesota Online - develop app for student profiles and learning plans</div>
 			</div>
     </a>
@@ -101,8 +204,7 @@
 			<div class="project-info">
 				<div><img src="./images/medicarepathfinder.jpg"></div>
 				
-				<div>
-<span class="date">September 19, 2017</span><br>
+				<div><span class="date">September 19, 2017</span><br>
 					Medicare Pathfinder - develop the front-end for a medicare plan finding app</div>
 			</div>
     </a>
@@ -111,8 +213,7 @@
 			<div class="project-info">
 				<div><img src="./images/lessonface.png"></div>
 				
-				<div>
-<span class="date">September 18, 2017</span><br>
+				<div><span class="date">September 18, 2017</span><br>
 					Lessonface - improve usability of live online music lesson app</div>
 			</div>
     </a>
@@ -121,8 +222,7 @@
 			<div class="project-info">
 				<div><img src="./images/picpix.jpg"></div>
 				
-				<div>
-<span class="date">September 15, 2017</span><br>
+				<div><span class="date">September 15, 2017</span><br>
 					Picpix - design event invitations for social photo app</div>
 			</div>
     </a>
@@ -131,8 +231,7 @@
 			<div class="project-info">
 				<div><img src="./images/fountaincity.png"></div>
 				
-				<div>
-<span class="date">September 14, 2017</span><br>
+				<div><span class="date">September 14, 2017</span><br>
 					Fountain City - needs drupal development for client projects</div>
 			</div>
     </a>
@@ -141,8 +240,7 @@
 			<div class="project-info">
 				<div><img src="./images/propertywebbuilder.jpg"></div>
 				
-				<div>
-<span class="date">September 13, 2017</span><br>
+				<div><span class="date">September 13, 2017</span><br>
 					PropertyWebBuilder - develop an iOS app for real-estate company</div>
 			</div>
     </a>
@@ -151,8 +249,7 @@
 			<div class="project-info">
 				<div><img src="./images/rebel.jpg"></div>
 				
-				<div>
-<span class="date">September 12, 2017</span><br>
+				<div><span class="date">September 12, 2017</span><br>
 					Rebel - design HTML/CSS email content for a mail app support team</div>
 			</div>
     </a>
@@ -161,8 +258,7 @@
 			<div class="project-info">
 				<div><img src="./images/chatroulette.jpg"></div>
 				
-				<div>
-<span class="date">September 11, 2017</span><br>
+				<div><span class="date">September 11, 2017</span><br>
 					Chatroulette - redesign the UI/UX of a viral social video website</div>
 			</div>
     </a>
@@ -176,12 +272,13 @@
 
 <footer style="margin: 0 auto 3em; max-width: 800px; text-align:center;">
 	<p>
-		©2017
+		&copy;2017
 		<a href="https://www.getdrip.com/forms/24047804/submissions/new">Get projects to your inbox</a>
 		<a href="http://twitter.com/yofolyo">Follow on Twitter</a>
 		<a href="https://github.com/robwco/folyo">Question?</a>
 	</p>
 </footer>
+-->
 
 
 <!-- Drip -->
